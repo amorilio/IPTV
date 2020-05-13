@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:-1,A HBO
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1,Amedia 1
+http://83.172.32.25:8012/tv/amedia1
+#EXTINF:-1,Amedia 1
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1,Amedia 2
+http://83.172.32.25:8012/tv/amedia2
+#EXTINF:-1,Amedia 2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1,Amedia Hit HD
+http://83.172.32.25:8012/tv/amediahithd
+#EXTINF:-1,Amedia Hit HD
+http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Amedia Premium
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://83.172.32.25:8012/tv/amediapremiumhd
+#EXTINF:-1,Armenia Comedy ATV
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1,CINEMA
+http://83.172.32.25:8012/tv/parkrazvlecheniy
+#EXTINF:-1,Cineman ATV 
+http://ott-cdn.ucom.am/s66/04.m3u8 
+#EXTINF:-1,FAN HD
+https://hls.goodgame.ru/manifest/157239_master.m3u8
+#EXTINF:-1,Filmzone ATV 
+http://ott-cdn.ucom.am/s48/04.m3u8 
+#EXTINF:-1,Fox HD
+http://83.172.32.25:8012/tv/fox
+#EXTINF:-1,Fox Life HD
+http://83.172.32.25:8012/tv/foxlife
+#EXTINF:-1,Haykino ATV
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1,HD КИНО
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1,HD КИНО
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
+#EXTINF:-1,Hollywood
+http://83.172.32.25:8012/tv/amc
+#EXTINF:-1,Hollywood HD
+http://83.172.32.25:8012/tv/mgmhd
+#EXTINF:-1,Kino 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Kino Watch
+https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=NJAZAMYQLP
+#EXTINF:-1,Kino Watch (Резерв)
+https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=SVG4MFQOEW
+#EXTINF:-1,Kinoman ATV 
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1,NateRou
+http://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1,Paramount Comedy HD
+http://83.172.32.25:8012/tv/paramountcomedy
+#EXTINF:-1,ParamountChannelHD
+http://185.189.184.8:8888/ParamountChannelHD/index.m3u8?token=test
+#EXTINF:-1,Sever TV
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1,Sony
+http://185.189.184.8:8888/Sony/index.m3u8?token=test
+#EXTINF:-1,Sony Channel
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/set.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://83.172.32.25:8012/tv/sonyscifi
+#EXTINF:-1,Sony Sci-Fi
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sony-sci-fi.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://185.189.184.8:8888/SonySciFi/index.m3u8?token=test
+#EXTINF:-1,Sony Turbo
+http://83.172.32.25:8012/tv/sonyturbo
+#EXTINF:-1,Sony Turbo
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sony-turbo.m3u8
+#EXTINF:-1,Sony Turbo
+http://185.189.184.8:8888/SonyTurbo/index.m3u8?token=test
+#EXTINF:-1,Spike
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/spike.m3u8
+#EXTINF:-1,TV1000
+http://185.189.184.8:8888/TV1000/index.m3u8?token=test
+#EXTINF:-1,TV1000 HD
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/tv1000.m3u8
+#EXTINF:-1,TV1000 Русское Кино HD
+http://88.216.80.254/tv1000_russkoe_kino/index.m3u8?token=test
+#EXTINF:-1,TV1000Action
+http://185.189.184.8:8888/TV1000Action/index.m3u8?token=test
+#EXTINF:-1,TV1000ComedyHD
+http://185.189.184.8:8888/TV1000ComedyHD/index.m3u8?token=test
+#EXTINF:-1,TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1,U!Premium ATV
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1,ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,Ultra HD cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+#EXTINF:-1,Ultra HD Cinema FulHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1,ViP Comedy
+http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Megahit
+http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://188.35.9.11:2016
+#EXTINF:-1,ViP Premiere
+http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Premiere HD
+http://188.35.9.15:2013
+#EXTINF:-1,Болт
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/bolt-ua.m3u8
+#EXTINF:-1,Дом Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/dom-kino.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://83.172.32.25:8012/tv/domkinopremiumhd
+#EXTINF:-1,Дом Кино Премиум HD
+http://188.35.9.26:12030/udp/160l
+#EXTINF:-1,Звезда
+http://79.135.71.195:8014
+#EXTINF:-1,Иллюзион +
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/iluzion-plus.m3u8
+#EXTINF:-1,Индийское кино
+http://83.172.32.25:8012/tv/indiatv
+#EXTINF:-1,Индийское кино
+http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
+#EXTINF:-1,Канал 1
+https://5656.ga/ch1.m3u8
+#EXTINF:-1,Канал 2
+https://5656.ga/ch2.m3u8
+#EXTINF:-1,Канал 3
+https://5656.ga/ch3.m3u8
+#EXTINF:-1,Канал 4
+https://5656.ga/ch4.m3u8
+#EXTINF:-1,Канал 5
+https://5656.ga/ch5.m3u8
+#EXTINF:-1,Канал 6
+https://5656.ga/ch6.m3u8
+#EXTINF:-1,КВН ТВ
+http://83.172.32.25:8012/tv/kvntv
+#EXTINF:-1,Кинoсерия
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/mnogo-tv.m3u8
+#EXTINF:-1,Кино UHD
+http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:-1,Кино UHD
+http://50.7.212.18/KINO_UHD/video.m3u8?token=test
+#EXTINF:-1,Кино Микс
+http://83.172.32.25:8012/tv/kinoplus
+#EXTINF:-1,Кино ТВ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kino-tv.m3u8
+#EXTINF:-1,Кинозаказ 1
+https://v2.catcast.me/content/36277/index.m3u8
+#EXTINF:-1,Кинозал (Гал ТВ)
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинозал 1 (Марс-ТВ) 
+https://autopilot.catcast.me/content/37033/index.m3u8
+#EXTINF:-1,Кинозал 10 (EVGEN Serial)
+http://v2.catcast.me/content/36168/index.m3u8
+#EXTINF:-1,Кинозал 11 (Film TV)
+http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF:-1,Кинозал 12 (БОЕВИК TV)
+http://v2.catcast.me/content/37493/index.m3u8
+#EXTINF:-1,Кинозал 13 (Zzigfreed)
+http://v2.catcast.me/content/37713/index.m3u8
+#EXTINF:-1,Кинозал 2 (pznstreams) 720
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1,Кинозал 3 (pznstreams) 1080
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,Кинозал 4 (ULTO) 
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,Кинозал 5 (STR TV) 
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,Кинозал 6 (EVGEN VHS)
+http://v2.catcast.me/content/36251/index.m3u8
+#EXTINF:-1,Кинозал 7 (Evgen СССР) 
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1,Кинозал 8 (DIESELBOY)
+https://hls.goodgame.ru/hls/42599.m3u8
+#EXTINF:-1,Кинозал 9 (Боль)
+https://hls.goodgame.ru/hls/73474.m3u8
+#EXTINF:-1,Кинозал AKUDJI TV HD
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:-1,Кинозал Cinema HORROR HD
+http://hls.goodgame.ru/hls/158135.m3u8
+#EXTINF:-1,Кинозал FILM TV HD
+http://195.9.195.3:8080/manifest/165462_master.m3u8
+#EXTINF:-1,Кинозал KVN-HD
+http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:-1,Кинозал Marvel TV
+http://v1.catcast.me/contentv2/35525/index.m3u8
+#EXTINF:-1,Кинозал TOP latino TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1,Кинозал VHS 90s
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:-1,Кинозал Боевик ТВ HD
+http://v2.catcast.me/content/37493/index.m3u8
+#EXTINF:-1,Кинозал ВИДЕОСАЛОН VHS
+http://hls.goodgame.ru/hls/175764.m3u8
+#EXTINF:-1,Кинозал ДЕЖАВЮ
+http://v2.catcast.me/content/37913/index.m3u8
+#EXTINF:-1,Кинозал Индийские фильмы
+http://v2.catcast.me/content/37353/index.m3u8
+#EXTINF:-1,Кинозал КИНО HD 2(МОЖи)
+http://hls.goodgame.ru/hls/32491.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
+#EXTINF:-1,Кинозал Музыка кино HD
+http://v2.catcast.me/content/37739/index.m3u8
+#EXTINF:-1,Кинозал Сити Эдем Play TV
+http://v2.catcast.me/content/34100/index.m3u8
+#EXTINF:-1,Кинозал Сити Эдем КиноКлассика
+http://v2.catcast.me/content/34185/index.m3u8
+#EXTINF:-1,Кинозал Фантастика HD
+https://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:-1,Кинозал Фантастика HD
+http://50.7.212.18/FANTASTIKA_HD/video.m3u8?token=test
+#EXTINF:-1,Кинокомедия
+http://83.172.32.25:8012/tv/komediatv
+#EXTINF:-1,Кинокомедия
+http://78.157.230.19/streaming/comedytv/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1,Кинокомедия
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinokomedia.m3u8
+#EXTINF:-1,КиноМеню HD
+http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+#EXTINF:-1,Киномикс
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinomix.m3u8
+#EXTINF:-1,Кинопоказ
+http://83.172.32.25:8012/tv/kinopokaz
+#EXTINF:-1,Кинопоказ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinopokaz.m3u8
+#EXTINF:-1,Кинопоказ HD
+http://188.35.9.11:2021
+#EXTINF:-1,КиноПремиум HD
+http://188.35.9.11:2017
+#EXTINF:-1,Киносвидание
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinosvidanije.m3u8
+#EXTINF:-1,Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,Киносемья
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinosemja.m3u8
+#EXTINF:-1,Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,Киносерия
+http://83.172.32.25:8012/tv/mnogotv
+#EXTINF:-1,Кинохит
+http://83.172.32.25:8012/tv/kinohit
+#EXTINF:-1,Кинохит
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinohit.m3u8
+#EXTINF:-1,Классика кино HD
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Комедия
+http://83.172.32.25:8012/tv/komedia
+#EXTINF:-1,Комедия
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkaja-comedija.m3u8
+#EXTINF:-1,Красная линия 
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1,Любимое Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/lubimoe-kino.m3u8
+#EXTINF:-1,Любимый HD
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1,Мир сериала
+http://83.172.32.25:8012/tv/mirseriala
+#EXTINF:-1,Мужское кино
+http://83.172.32.25:8012/tv/muzhskoekino
+#EXTINF:-1,Мужское кино
+http://188.113.190.12/316/video.m3u8
+#EXTINF:-1,Мужское кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/muzhskoe-kino.m3u8
+#EXTINF:-1,Мужское кино HD
+http://188.35.9.11:2022
+#EXTINF:-1,Настоящее страшное ТВ
+http://78.157.230.19/streaming/nstv/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1,Наше Любимое Кино
+http://88.216.80.254/nashe_kino/index.m3u8?token=test
+#EXTINF:-1,Наше Новое Кино
+http://78.157.230.19/streaming/nashe_novoe_kino/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1,Наше Новое Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nashe-novoe-kino.m3u8
+#EXTINF:-1,Наше ТВ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nashe-tv.m3u8
+#EXTINF:-1,ННТВ HD
+http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1,Ностальгия
+http://83.172.32.25:8012/tv/nostalgia
+#EXTINF:-1,НСТ
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:-1,Остросюжетное HD
+http://188.35.9.11:2015
+#EXTINF:-1,Победа
+http://50.7.212.18/Pobeda/video.m3u8?token=test
+#EXTINF:-1,Ретро
+http://50.7.212.18/Retro/index.m3u8?token=test
+#EXTINF:-1,Родное кино
+http://83.172.32.25:8012/tv/nashekino
+#EXTINF:-1,Родное кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rodnoje_kino.m3u8
+#EXTINF:-1,Русский Бестселлер
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkij-bestseller.m3u8
+#EXTINF:-1,Русский Детектив
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkij-detektiv.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkij-iluzion.m3u8
+#EXTINF:-1,Русский Роман
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkij-roman.m3u8
+#EXTINF:-1,Сериал UHD
+http://50.7.212.18/SERIAL_UHD/video.m3u8?token=test
+#EXTINF:-1,Сериал HD
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1,Сити Эдем TV
+http://v2.catcast.me/content/34246/index.m3u8
+#EXTINF:-1,Сов. Секретно
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sovershenno-sekretno.m3u8
+#EXTINF:-1,Страх HD	
+http://50.7.212.18/strah_hd/video.m3u8?token=test
+#EXTINF:-1,СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+	
+	
+	
+	
+	
+	
